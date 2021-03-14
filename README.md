@@ -20,4 +20,4 @@ Data Set Characteristics: Multivariate, Time-Series
 Attribute Characteristics: Real    
 Associated Tasks: Regression, Clustering  
 
-The repository contains executable python program performing machine learning LSTM Methods for acheiving the prediction.
+The repository contains executable python program performing machine learning LSTM Methods for achieving the prediction.
